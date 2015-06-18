@@ -1,9 +1,9 @@
-# Intruder detector
+# Spyduino
 
 -------------
 
 Detects if any intruder nears your computer with the help of Ultrasonic sensor and captures their image immediately
-with the help of your USB Webcam.
+with the help of your Webcam.
 
 <img src="ultrasonic_sensor_bb.png" alt="Arduino Sketch Schema" style="width: 500px; height: 400px"/>
 
