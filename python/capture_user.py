@@ -32,7 +32,7 @@ def capture_image():
     Starts the camera, Captures the image, saves it & stops
     '''
 
-    file_name = home_dir + '/image_captured/image_' + str(dt.now()) + '.png'
+    file_name = home_dir + '/image_captured/image_' + str(dt.now()) + '.jpg'
 
     cam.start()
     image = cam.get_image()
