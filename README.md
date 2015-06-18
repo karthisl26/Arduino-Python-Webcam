@@ -7,11 +7,17 @@ Ultrasonic Functions
 Features
 
  Detecting range: 3cm-4m
+ 
  Best in 30 degree angle
+ 
  Electronic brick compatible interface
+ 
  5VDC power supply
+ 
  Breadboard friendly
+ 
  Dual transducer
+ 
  Arduino library ready
 
 Installation
