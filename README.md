@@ -1,4 +1,4 @@
-# Spyduino
+# Arduino-Python-Webcam
 
 -------------
 
