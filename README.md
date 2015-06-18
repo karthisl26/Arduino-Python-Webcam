@@ -1,5 +1,20 @@
 # Arduino-Python-Webcam
 
+Ultrasonic Functions
+
+  ultrasonic sensor is non-contact distance measurement module, which is also compatible with electronic brick.It’s designed for easy modular project usage with industrial performance. 
+
+Features
+
+ Detecting range: 3cm-4m
+ Best in 30 degree angle
+ Electronic brick compatible interface
+ 5VDC power supply
+ Breadboard friendly
+ Dual transducer
+ Arduino library ready
+
+Installation
 -------------
 
 Detects if any intruder nears your computer with the help of Ultrasonic sensor and captures their image immediately
