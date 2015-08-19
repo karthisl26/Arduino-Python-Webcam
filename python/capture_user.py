@@ -1,10 +1,7 @@
 #! /usr/bin/env python
 
 # -*- coding: utf-8 -*-
-"""
-Author: Prasanna Venkadesh
-License: GPL V3
-"""
+
 
 import sys
 import serial
